@@ -1,10 +1,11 @@
 # Augmented Reality Turbine Challenge
 
 * ![Turbine Image](/Media/TurbineFront.jpg)
+* ![Turbine Front Render](/Media/TurbineRenderFront.png)
+* ![Turbine Back Render](/Media/TurbineRenderBack.png)
 * [Video of the pieces](/Media/Turbine_Model_Parts.mp4)
 * [Video of the AR Development side](/Media/Turbine_AR_Dev_2024-10-18.mp4)
-* [Turbine Front Render](/Media/TurbineRenderFront.png)
-* [Turbine Back Render](/Media/TurbineRenderBack.png)
+
 
 ## The Concept
 
